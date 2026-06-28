@@ -1,0 +1,105 @@
+Gender,Married,Education,ApplicantIncome,CoapplicantIncome,LoanAmount,Credit_History,Property_Area,Loan_Status
+Male,Yes,Graduate,5000,0,120,1,Urban,Y
+Male,Yes,Graduate,3000,1500,100,1,Rural,Y
+Female,No,Graduate,2500,0,90,1,Semiurban,Y
+Male,Yes,Not Graduate,1800,1000,80,0,Rural,N
+Female,No,Graduate,4000,0,110,1,Urban,Y
+Male,Yes,Graduate,1500,500,70,0,Rural,N
+Male,No,Graduate,3500,0,100,1,Semiurban,Y
+Female,Yes,Graduate,2800,1200,95,1,Urban,Y
+Male,No,Not Graduate,2000,500,85,0,Rural,N
+Female,Yes,Graduate,4500,0,115,1,Semiurban,Y
+Male,Yes,Graduate,5000,0,120,1,Urban,Y
+Male,Yes,Graduate,3000,1500,100,1,Rural,Y
+Female,No,Graduate,2500,0,90,1,Semiurban,Y
+Male,Yes,Not Graduate,1800,1000,80,0,Rural,N
+Female,No,Graduate,4000,0,110,1,Urban,Y
+Male,Yes,Graduate,1500,500,70,0,Rural,N
+Male,No,Graduate,3500,0,100,1,Semiurban,Y
+Female,Yes,Graduate,2800,1200,95,1,Urban,Y
+Male,No,Not Graduate,2000,500,85,0,Rural,N
+Female,Yes,Graduate,4500,0,115,1,Semiurban,Y
+Male,Yes,Graduate,5000,0,120,1,Urban,Y
+Male,Yes,Graduate,3000,1500,100,1,Rural,Y
+Female,No,Graduate,2500,0,90,1,Semiurban,Y
+Male,Yes,Not Graduate,1800,1000,80,0,Rural,N
+Female,No,Graduate,4000,0,110,1,Urban,Y
+Male,Yes,Graduate,1500,500,70,0,Rural,N
+Male,No,Graduate,3500,0,100,1,Semiurban,Y
+Female,Yes,Graduate,2800,1200,95,1,Urban,Y
+Male,No,Not Graduate,2000,500,85,0,Rural,N
+Female,Yes,Graduate,4500,0,115,1,Semiurban,Y
+Male,Yes,Graduate,5000,0,120,1,Urban,Y
+Male,Yes,Graduate,3000,1500,100,1,Rural,Y
+Female,No,Graduate,2500,0,90,1,Semiurban,Y
+Male,Yes,Not Graduate,1800,1000,80,0,Rural,N
+Female,No,Graduate,4000,0,110,1,Urban,Y
+Male,Yes,Graduate,1500,500,70,0,Rural,N
+Male,No,Graduate,3500,0,100,1,Semiurban,Y
+Female,Yes,Graduate,2800,1200,95,1,Urban,Y
+Male,No,Not Graduate,2000,500,85,0,Rural,N
+Female,Yes,Graduate,4500,0,115,1,Semiurban,Y
+Male,Yes,Graduate,5000,0,120,1,Urban,Y
+Male,Yes,Graduate,3000,1500,100,1,Rural,Y
+Female,No,Graduate,2500,0,90,1,Semiurban,Y
+Male,Yes,Not Graduate,1800,1000,80,0,Rural,N
+Female,No,Graduate,4000,0,110,1,Urban,Y
+Male,Yes,Graduate,1500,500,70,0,Rural,N
+Male,No,Graduate,3500,0,100,1,Semiurban,Y
+Female,Yes,Graduate,2800,1200,95,1,Urban,Y
+Male,No,Not Graduate,2000,500,85,0,Rural,N
+Female,Yes,Graduate,4500,0,115,1,Semiurban,Y
+Male,Yes,Graduate,5000,0,120,1,Urban,Y
+Male,Yes,Graduate,3000,1500,100,1,Rural,Y
+Female,No,Graduate,2500,0,90,1,Semiurban,Y
+Male,Yes,Not Graduate,1800,1000,80,0,Rural,N
+Female,No,Graduate,4000,0,110,1,Urban,Y
+Male,Yes,Graduate,1500,500,70,0,Rural,N
+Male,No,Graduate,3500,0,100,1,Semiurban,Y
+Female,Yes,Graduate,2800,1200,95,1,Urban,Y
+Male,No,Not Graduate,2000,500,85,0,Rural,N
+Female,Yes,Graduate,4500,0,115,1,Semiurban,Y
+Male,Yes,Graduate,5000,0,120,1,Urban,Y
+Male,Yes,Graduate,3000,1500,100,1,Rural,Y
+Female,No,Graduate,2500,0,90,1,Semiurban,Y
+Male,Yes,Not Graduate,1800,1000,80,0,Rural,N
+Female,No,Graduate,4000,0,110,1,Urban,Y
+Male,Yes,Graduate,1500,500,70,0,Rural,N
+Male,No,Graduate,3500,0,100,1,Semiurban,Y
+Female,Yes,Graduate,2800,1200,95,1,Urban,Y
+Male,No,Not Graduate,2000,500,85,0,Rural,N
+Female,Yes,Graduate,4500,0,115,1,Semiurban,Y
+Male,Yes,Graduate,5000,0,120,1,Urban,Y
+Male,Yes,Graduate,3000,1500,100,1,Rural,Y
+Female,No,Graduate,2500,0,90,1,Semiurban,Y
+Male,Yes,Not Graduate,1800,1000,80,0,Rural,N
+Female,No,Graduate,4000,0,110,1,Urban,Y
+Male,Yes,Graduate,1500,500,70,0,Rural,N
+Male,No,Graduate,3500,0,100,1,Semiurban,Y
+Female,Yes,Graduate,2800,1200,95,1,Urban,Y
+Male,No,Not Graduate,2000,500,85,0,Rural,N
+Female,Yes,Graduate,4500,0,115,1,Semiurban,Y
+Male,Yes,Graduate,5000,0,120,1,Urban,Y
+Male,Yes,Graduate,3000,1500,100,1,Rural,Y
+Female,No,Graduate,2500,0,90,1,Semiurban,Y
+Male,Yes,Not Graduate,1800,1000,80,0,Rural,N
+Female,No,Graduate,4000,0,110,1,Urban,Y
+Male,Yes,Graduate,1500,500,70,0,Rural,N
+Male,No,Graduate,3500,0,100,1,Semiurban,Y
+Female,Yes,Graduate,2800,1200,95,1,Urban,Y
+Male,No,Not Graduate,2000,500,85,0,Rural,N
+Female,Yes,Graduate,4500,0,115,1,Semiurban,Y
+Male,Yes,Graduate,5000,0,120,1,Urban,Y
+Male,Yes,Graduate,3000,1500,100,1,Rural,Y
+Female,No,Graduate,2500,0,90,1,Semiurban,Y
+Male,Yes,Not Graduate,1800,1000,80,0,Rural,N
+Male,Yes,Graduate,5000,0,120,1,Urban,Y
+Male,Yes,Graduate,3000,1500,100,1,Rural,Y
+Female,No,Graduate,2500,0,90,1,Semiurban,Y
+Male,Yes,Not Graduate,1800,1000,80,0,Rural,N
+Female,No,Graduate,4000,0,110,1,Urban,Y
+Male,Yes,Graduate,1500,500,70,0,Rural,N
+Male,No,Graduate,3500,0,100,1,Semiurban,Y
+Female,Yes,Graduate,2800,1200,95,1,Urban,Y
+Male,No,Not Graduate,2000,500,85,0,Rural,N
+Female,Yes,Graduate,4500,0,115,1,Semiurban,Y
